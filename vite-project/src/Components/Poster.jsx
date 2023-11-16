@@ -9,8 +9,8 @@ export default function Poster(props) {
       <p> Seasons: {props.season}</p>
       <p>Genres: {props.genre}</p>
       <p>Updated: {props.updates}</p>
-      <img src="./images/heart-filled.png" className="icon-heart" />
-      <img src="./images/heart.png" className="icon-heart" />
+      <img src="./i.png" className="icon-" />
+      <img src="./" className="icon" />
     </div>
   );
 }
